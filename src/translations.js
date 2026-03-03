@@ -20,7 +20,7 @@ const translations = {
 
     // About page
     about_heading:    "About me",
-    about_p1:         "I am a filmmaker and cultural worker from Montréal, Québec. I have a Bachelor's in Cultural Studies from McGill University and a Master's in Film Studies from Concordia University. I have directed 2 short fiction films and 1 experimental found footage film. I am currently working on 3 short films (one of which is financed by SODEC's Emerging Creators program) and 1 feature film screenplay. Unbounded by genre or medium, I see every new project as an opportunity to expand the framework of my thinking and image-making. I am most interested in exploring feminism, labour, archives, and narrativity through image and sound.",
+    about_p1:         "I am a British-Canadian filmmaker and cultural worker living in Montréal, Québec. I have a Bachelor's in Cultural Studies from McGill University and a Master's in Film Studies from Concordia University. I have directed 2 short fiction films and 1 experimental found footage film. I am currently working on 3 short films (one of which is financed by SODEC's Emerging Creators program) and 1 feature film screenplay. Unbounded by genre or medium, I see every new project as an opportunity to expand the framework of my thinking and image-making. I am most interested in exploring feminism, labour, archives, and narrativity through image and sound.",
     about_p2:         "When I am not working on my own films, I help to get other artists' films shown through my work in distribution at Vidéographe.",
     about_write_to_me: "Write to me ↗",
 
@@ -89,7 +89,7 @@ const translations = {
 
     // About page
     about_heading:    "À propos",
-    about_p1:         "Je suis cinéaste et travailleuse culturelle originaire de Montréal, Québec. J'ai un baccalauréat en études culturelles de l'Université McGill et une maîtrise en études cinématographiques de l'Université Concordia. J'ai réalisé 2 courts métrages de fiction et 1 film expérimental en found footage. Je travaille actuellement sur 3 courts métrages (dont l'un est financé par le programme Jeunes Créateurs de la SODEC) et 1 scénario de long métrage. Sans me limiter à un genre ou à un medium, je vois chaque nouveau projet comme une occasion d'élargir le cadre de ma réflexion et de ma pratique de l'image. Je m'intéresse principalement à l'exploration du féminisme, du travail, des archives et de la narrativité à travers l'image et le son.",
+    about_p1:         "Je suis cinéaste et travailleuse culturelle britannique et canadienne, originaire de Montréal, Québec. J'ai un baccalauréat en études culturelles de l'Université McGill et une maîtrise en études cinématographiques de l'Université Concordia. J'ai réalisé 2 courts métrages de fiction et 1 film expérimental en found footage. Je travaille actuellement sur 3 courts métrages (dont l'un est financé par le programme Jeunes Créateurs de la SODEC) et 1 scénario de long métrage. Sans me limiter à un genre ou à un medium, je vois chaque nouveau projet comme une occasion d'élargir le cadre de ma réflexion et de ma pratique de l'image. Je m'intéresse principalement à l'exploration du féminisme, du travail, des archives et de la narrativité à travers l'image et le son.",
     about_p2:         "Lorsque je ne travaille pas sur mes propres films, j'aide à faire circuler les films d'autres artistes à travers mon travail en distribution à Vidéographe.",
     about_write_to_me: "M'écrire ↗",
 
