@@ -303,6 +303,7 @@ hr.divider {
   width: 100%;
   aspect-ratio: 16/10;
   object-fit: cover;
+  object-position: center center;
   display: block;
 }
 
