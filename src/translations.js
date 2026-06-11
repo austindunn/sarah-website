@@ -6,7 +6,6 @@ const translations = {
     title_films:            "Films — Sarah Foulkes",
     title_soft_lock:        "Soft Lock — Sarah Foulkes",
     title_yntayd:           "You Never Talk About Your Dreams — Sarah Foulkes",
-    title_contours:         "Contours — Sarah Foulkes",
     title_ame:              "Amid Mounting Evidence — Sarah Foulkes",
     title_special_features: "Special Features — Sarah Foulkes",
 
@@ -30,7 +29,6 @@ const translations = {
     ame_card_meta:       "In production &middot; 16mm &middot; Experimental",
     soft_lock_card_meta: "2024 &middot; 11 min &middot; Fiction",
     yntayd_card_meta:    "2023 &middot; 12 min &middot; Fiction",
-    contours_card_meta:  "2024 &middot; 4 min &middot; Experimental",
 
     // Shared film detail
     back_link:    "← All films",
@@ -47,11 +45,6 @@ const translations = {
     yntayd_synopsis: "After falling asleep during a therapy session, Helen struggles to compose herself as she prepares for her next patient, Cate, who despite her affability proves to be more challenging than Helen expected.",
     yntayd_fest_1:   "Official Selection — Pendance Film Festival, Toronto, Canada, 2023",
     yntayd_fest_2:   "Official Selection — Female Filmmakers Festival, Berlin, Germany, 2023",
-
-    // Contours detail
-    contours_meta:     "2024 &middot; 4 min &middot; Experimental &middot; No dialogue &middot; Found footage",
-    contours_synopsis: "A compilation of YouTube makeup tutorials featuring intimate silences where the creators focus solely on applying makeup. Through uncanny ASMR-inducing sounds and occasional glitchy images, Contours locates and manipulates the gaps between intentional and unintentional moments of intimacy.",
-    contours_fest_1:   "Official Selection — Hull Underground Film Festival, Hull, Canada, 2023",
 
     // Amid Mounting Evidence detail
     ame_meta:     "In production &middot; Non-narrative experimental &middot; No dialogue &middot; 16mm",
@@ -75,7 +68,6 @@ const translations = {
     title_films:            "Films — Sarah Foulkes",
     title_soft_lock:        "Soft Lock — Sarah Foulkes",
     title_yntayd:           "You Never Talk About Your Dreams — Sarah Foulkes",
-    title_contours:         "Contours — Sarah Foulkes",
     title_ame:              "Amid Mounting Evidence — Sarah Foulkes",
     title_special_features: "Special Features — Sarah Foulkes",
 
@@ -99,7 +91,6 @@ const translations = {
     ame_card_meta:       "En production &middot; 16mm &middot; Expérimental",
     soft_lock_card_meta: "2024 &middot; 11 min &middot; Fiction",
     yntayd_card_meta:    "2023 &middot; 12 min &middot; Fiction",
-    contours_card_meta:  "2024 &middot; 4 min &middot; Expérimental",
 
     // Shared film detail
     back_link:    "← Tous les films",
@@ -116,11 +107,6 @@ const translations = {
     yntayd_synopsis: "Après s'être endormie pendant une séance de thérapie, Helen peine à se ressaisir alors qu'elle se prépare à recevoir sa prochaine patiente, Cate, qui, malgré son affabilité, s'avère plus difficile à gérer qu'Helen ne l'anticipait.",
     yntayd_fest_1:   "Sélection officielle — Pendance Film Festival, Toronto, Canada, 2023",
     yntayd_fest_2:   "Sélection officielle — Female Filmmakers Festival, Berlin, Allemagne, 2023",
-
-    // Contours detail
-    contours_meta:     "2024 &middot; 4 min &middot; Expérimental &middot; Pas de dialogue &middot; Métrage d'archives",
-    contours_synopsis: "Une compilation de tutoriels de maquillage YouTube mettant en scène des silences intimes où les créatrices se concentrent uniquement sur l'application du maquillage. À travers des sons évocateurs d'ASMR et des images parfois glitchées, Contours repère et manipule les interstices entre les moments d'intimité intentionnels et non intentionnels.",
-    contours_fest_1:   "Sélection officielle — Hull Underground Film Festival, Hull, Canada, 2023",
 
     // Amid Mounting Evidence detail
     ame_meta:     "En production &middot; Expérimental non narratif &middot; Pas de dialogue &middot; 16mm",
