@@ -37,21 +37,18 @@ const translations = {
     // Soft Lock detail
     soft_lock_meta:     "2024 &middot; 11 min &middot; Fiction &middot; English and French &middot; 4K",
     soft_lock_synopsis: "Laura is a dancer who works as a bike courier to make ends meet. Over the course of one shift, as her patience is tested and her energy depletes, Laura learns she has the fortitude to survive the odds against her.",
-    soft_lock_fest_1:   "Official Selection — Charlottetown Film Festival, Charlottetown, Canada, 2025",
-    soft_lock_fest_2:   "Official Selection — Made Here Film Festival, Burlington, USA, 2025",
 
     // You Never Talk About Your Dreams detail
     yntayd_meta:     "2023 &middot; 12 min &middot; Fiction &middot; English &middot; 4K",
     yntayd_synopsis: "After falling asleep during a therapy session, Helen struggles to compose herself as she prepares for her next patient, Cate, who despite her affability proves to be more challenging than Helen expected.",
-    yntayd_fest_1:   "Official Selection — Pendance Film Festival, Toronto, Canada, 2023",
-    yntayd_fest_2:   "Official Selection — Female Filmmakers Festival, Berlin, Germany, 2023",
 
     // Amid Mounting Evidence detail
-    ame_meta:     "In production &middot; Non-narrative experimental &middot; No dialogue &middot; 16mm",
-    ame_synopsis: "A short experimental film shot on 16mm that explores obsessive-compulsive disorder and 'sticky thoughts'.",
+    ame_meta:     "In production &middot; Non-narrative experimental &middot; 16mm",
+    ame_synopsis: "Amid Mounting Evidence is a short experimental film which uses the filmmaker's experience of intrusive thoughts and Obsessive-Compulsive disorder as envisioned through ever-morphing and always-escalating interruptions into a shot of her apartment hallway. Instead of a film about mental health that solicits empathy, 'Amid Mounting Evidence' is a film that attempts to solicit a kind of telepathy. A film in which the filmmaker's thoughts begin to stick to yours.",
     ame_credit_1: "A film by Sarah Foulkes",
     ame_credit_2: "Mentor — Guillaume Vallée",
     ame_credit_3: "Made with support from PRIM Centre",
+    ame_credit_4: "Distributed by Winnipeg Film Group",
 
     // Special Features detail
     sf_meta:     "In development &middot; Fiction &middot; English",
@@ -99,21 +96,18 @@ const translations = {
     // Soft Lock detail
     soft_lock_meta:     "2024 &middot; 11 min &middot; Fiction &middot; Anglais et français &middot; 4K",
     soft_lock_synopsis: "Laura est danseuse et travaille comme coursière à vélo pour joindre les deux bouts. Au cours d'un quart de travail, alors que sa patience est mise à l'épreuve et que son énergie s'épuise, Laura découvre qu'elle a la force de surmonter les obstacles qui se dressent devant elle.",
-    soft_lock_fest_1:   "Sélection officielle — Festival du film de Charlottetown, Charlottetown, Canada, 2025",
-    soft_lock_fest_2:   "Sélection officielle — Made Here Film Festival, Burlington, États-Unis, 2025",
 
     // You Never Talk About Your Dreams detail
     yntayd_meta:     "2023 &middot; 12 min &middot; Fiction &middot; Anglais &middot; 4K",
     yntayd_synopsis: "Après s'être endormie pendant une séance de thérapie, Helen peine à se ressaisir alors qu'elle se prépare à recevoir sa prochaine patiente, Cate, qui, malgré son affabilité, s'avère plus difficile à gérer qu'Helen ne l'anticipait.",
-    yntayd_fest_1:   "Sélection officielle — Pendance Film Festival, Toronto, Canada, 2023",
-    yntayd_fest_2:   "Sélection officielle — Female Filmmakers Festival, Berlin, Allemagne, 2023",
 
     // Amid Mounting Evidence detail
-    ame_meta:     "En production &middot; Expérimental non narratif &middot; Pas de dialogue &middot; 16mm",
+    ame_meta:     "En production &middot; Expérimental non narratif &middot; 16mm",
     ame_synopsis: "Un court métrage expérimental tourné en 16mm qui explore le trouble obsessionnel-compulsif et les « pensées intrusives ».",
     ame_credit_1: "Un film de Sarah Foulkes",
     ame_credit_2: "Mentor — Guillaume Vallée",
     ame_credit_3: "Réalisé avec le soutien du PRIM Centre",
+    ame_credit_4: "Distribué par Winnipeg Film Group",
 
     // Special Features detail
     sf_meta:     "En développement &middot; Fiction &middot; Anglais",
