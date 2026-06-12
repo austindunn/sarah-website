@@ -127,14 +127,14 @@ const translations = {
     sf_synopsis: "Special Features est un court métrage méta qui explore les frontières floues entre fiction et mémoire.",
     sf_credit_1: "Écrit et réalisé par Sarah Foulkes",
     sf_credit_2: "Produit par Emmanuel Hessler",
-    sf_credit_3: "Financé par le programme Jeunes Créateurs de la SODEC",
+    sf_credit_3: "Financé par le programme d'aide à la création émergente de la SODEC",
 
     // Reading Smoke detail
     rs_meta:     "En développement &middot; Non-fiction &middot; Anglais",
-    rs_synopsis: "Reading Smoke est un court métrage documentaire expérimental transdisciplinaire, qui utilise les grands dessins au graphite de Sheila Nadimi comme offrandes à interpréter par un père et son fils — deux chercheurs et praticiens issus de disciplines extérieures aux arts visuels — ainsi que par moi-même, une cinéaste. Les dessins ouvrent une voie vers une nouvelle création et offrent une occasion de communication transdisciplinaire.",
+    rs_synopsis: "« Reading Smoke » est un court métrage documentaire expérimental interdisciplinaire qui fait d'une série de dessins au graphite à grande échelle une « offrande » adressée à un père et à son fils ayant emprunté des parcours professionnels distincts : le père est musicien, et le fils, physicien théoricien. Les dessins « Smoke Jumpers », amorcés en 2014 par l’artiste montréalaise Sheila Nadimi, sont créés en plaçant des triangles rectangles sur une grille dessinée à la main, dans toute la gamme de valeurs qu'offrent les différentes duretés de crayon graphite. Le film constitue l'aboutissement de cette « offrande » : les dessins y tracent la voie vers une nouvelle création et ouvrent un espace de dialogue entre les disciplines.",
     rs_credit_1: "Réalisé et produit par Sarah Foulkes",
     rs_credit_2: "Concept et dessins par Sheila Nadimi",
-    rs_credit_3: "Soutenu par la résidence Film Factory de Main Film",
+    rs_credit_3: "Soutenu par le programme La Manufacture de Film de Main Film",
   },
 };
 
