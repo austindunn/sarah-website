@@ -8,6 +8,7 @@ const translations = {
     title_yntayd:           "You Never Talk About Your Dreams — Sarah Foulkes",
     title_ame:              "Amid Mounting Evidence — Sarah Foulkes",
     title_special_features: "Special Features — Sarah Foulkes",
+    title_reading_smoke: "Reading Smoke — Sarah Foulkes",
 
     // Nav
     nav_films: "Films",
@@ -29,6 +30,8 @@ const translations = {
     ame_card_meta:       "In production &middot; 16mm &middot; Experimental",
     soft_lock_card_meta: "2024 &middot; 11 min &middot; Fiction",
     yntayd_card_meta:    "2023 &middot; 12 min &middot; Fiction",
+    sf_card_meta:       "In production &middot; Fiction",
+    rs_card_meta:       "In production &middot; 16mm &middot; Non-fiction",
 
     // Shared film detail
     back_link:    "← All films",
@@ -56,6 +59,13 @@ const translations = {
     sf_credit_1: "Written and directed by Sarah Foulkes",
     sf_credit_2: "Produced by Emmanuel Hessler",
     sf_credit_3: "Financed through SODEC's Emerging Creators program",
+
+    // Reading Smoke detail
+    rs_meta:     "In development &middot; Non-fiction &middot; English",
+    rs_synopsis: "Reading Smoke is a cross-disciplinary experimental documentary short film, which uses Sheila Nadimi’s large-scale graphite drawings as offerings to be interpreted by a father and son, two researchers and practitioners in disciplines outside of the visual arts, and by myself, a filmmaker. The drawings present a pathway for new creation and an opportunity for cross-disciplinary communication.",
+    rs_credit_1: "Directed and produced by Sarah Foulkes",
+    rs_credit_2: "Concept and drawings by Sheila Nadimi",
+    rs_credit_3: "Supported through Main Film’s Film Factory residency",
   },
 
   fr: {
@@ -67,6 +77,7 @@ const translations = {
     title_yntayd:           "You Never Talk About Your Dreams — Sarah Foulkes",
     title_ame:              "Amid Mounting Evidence — Sarah Foulkes",
     title_special_features: "Special Features — Sarah Foulkes",
+    title_reading_smoke: "Reading Smoke — Sarah Foulkes",
 
     // Nav
     nav_films: "Films",
@@ -85,9 +96,11 @@ const translations = {
     // Films index
     films_heading:       "Films",
     films_view_film:     "Voir le film →",
-    ame_card_meta:       "En production &middot; 16mm &middot; Expérimental",
+    ame_card_meta:       "En développement &middot; 16mm &middot; Expérimental",
     soft_lock_card_meta: "2024 &middot; 11 min &middot; Fiction",
     yntayd_card_meta:    "2023 &middot; 12 min &middot; Fiction",
+    sf_card_meta:       "En développement &middot; Fiction",
+    rs_card_meta:       "En développement &middot; 16mm &middot; Non-fiction",
 
     // Shared film detail
     back_link:    "← Tous les films",
@@ -102,8 +115,8 @@ const translations = {
     yntayd_synopsis: "Après s'être endormie pendant une séance de thérapie, Helen peine à se ressaisir alors qu'elle se prépare à recevoir sa prochaine patiente, Cate, qui, malgré son affabilité, s'avère plus difficile à gérer qu'Helen ne l'anticipait.",
 
     // Amid Mounting Evidence detail
-    ame_meta:     "En production &middot; Expérimental non narratif &middot; 16mm",
-    ame_synopsis: "Un court métrage expérimental tourné en 16mm qui explore le trouble obsessionnel-compulsif et les « pensées intrusives ».",
+    ame_meta:     "En développement &middot; Expérimental non narratif &middot; 16mm",
+    ame_synopsis: "Amid Mounting Evidence est un court métrage expérimental qui s'appuie sur le vécu de la cinéaste — ses pensées intrusives et son trouble obsessionnel-compulsif — tels qu'ils se manifestent à travers des interruptions toujours changeantes et sans cesse croissantes dans un plan fixe du couloir de son appartement. Plutôt qu'un film sur la santé mentale qui cherche à susciter de l'empathie, Amid Mounting Evidence est un film qui tente de provoquer une forme de télépathie. Un film dans lequel les pensées de la cinéaste commencent à se coller aux vôtres.",
     ame_credit_1: "Un film de Sarah Foulkes",
     ame_credit_2: "Mentor — Guillaume Vallée",
     ame_credit_3: "Réalisé avec le soutien du PRIM Centre",
@@ -115,6 +128,13 @@ const translations = {
     sf_credit_1: "Écrit et réalisé par Sarah Foulkes",
     sf_credit_2: "Produit par Emmanuel Hessler",
     sf_credit_3: "Financé par le programme Jeunes Créateurs de la SODEC",
+
+    // Reading Smoke detail
+    rs_meta:     "En développement &middot; Non-fiction &middot; Anglais",
+    rs_synopsis: "Reading Smoke est un court métrage documentaire expérimental transdisciplinaire, qui utilise les grands dessins au graphite de Sheila Nadimi comme offrandes à interpréter par un père et son fils — deux chercheurs et praticiens issus de disciplines extérieures aux arts visuels — ainsi que par moi-même, une cinéaste. Les dessins ouvrent une voie vers une nouvelle création et offrent une occasion de communication transdisciplinaire.",
+    rs_credit_1: "Réalisé et produit par Sarah Foulkes",
+    rs_credit_2: "Concept et dessins par Sheila Nadimi",
+    rs_credit_3: "Soutenu par la résidence Film Factory de Main Film",
   },
 };
 
